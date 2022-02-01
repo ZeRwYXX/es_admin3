@@ -10,4 +10,6 @@ Logo à changer pour votre serveur
 ![image](https://user-images.githubusercontent.com/74712790/151912835-5ae5da1f-f0e7-4585-8aed-923b5c73953d.png)
 
 
-Vous pouvez changer les logos dans es_admin3/ui/img/HorizonCity [Gardez bien le nom du logo en HorizonCity sinon le logo ne s'afficheras pas]
+Vous pouvez changer les logos dans es_admin3/ui/img/HorizonCity 
+
+[Gardez bien le nom du logo en HorizonCity sinon le logo ne s'afficheras pas]
