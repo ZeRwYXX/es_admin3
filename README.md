@@ -3,6 +3,9 @@ es_admin avancé plus new design
 
 Logo à changer pour votre serveur
 
+Vidéo demo:
+https://www.youtube.com/watch?v=XsZ9C02jovw&ab_channel=ZeRwYX
+
 ![image](https://user-images.githubusercontent.com/74712790/151912801-38af4461-f1f4-4ff6-bd2a-c26794009b36.png)
 
 ![image](https://user-images.githubusercontent.com/74712790/151912819-f2b72ef2-58eb-4961-aa09-d4e6f415f9e3.png)
