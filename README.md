@@ -1,6 +1,6 @@
 # es_admin3
 es_admin avancé plus new design 
-
+Attention ! Oubliez pas de renomer les es_admin3 en es_admin2 ! sinon aucune action ne pourras fonctionner !
 Logo à changer pour votre serveur
 
 Vidéo demo:
